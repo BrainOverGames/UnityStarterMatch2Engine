@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c8dcdd804fc9b854a8ad4ac86401a60b
+timeCreated: 1501840582
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Insaniburger
+  fontNames:
+  - Insaniburger
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

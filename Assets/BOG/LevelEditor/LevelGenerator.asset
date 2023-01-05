@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2baee20936479ac4a9fabc2e43be6a48, type: 3}
+  m_Name: LevelGenerator
+  m_EditorClassIdentifier: 
+  levelData:
+    id: 3
+    width: 7
+    height: 7
+    tiles:
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    - blockerType: 0
+      type: 6
+    limitType: 0
+    limit: 20
+    penalty: 0
+    goals:
+    - blockType: 2
+      amount: 9
+    - blockType: 3
+      amount: 10
+    availableColors: 000000000100000004000000050000000200000003000000
+    awardBoostersWithRemainingMoves: 0
+  levelToLoad: 3
